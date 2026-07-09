@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # LLM-Safety-Evaluation-Framework
-=======
-# LLM Safety Evaluation Framework
 
 A portfolio-quality framework for evaluating the safety and alignment of Large Language Models (LLMs) across multiple risk dimensions. This project supports both hosted models (OpenAI) and local models (via LM Studio), using a robust LangGraph-powered evaluation pipeline.
 
@@ -106,4 +103,3 @@ For a deep dive into the system design, security measures, and evaluation method
 
 ---
 **Note**: This project is intended for research and educational purposes in AI safety. Use adversarial prompts responsibly.
->>>>>>> 51cf6ae (Full evaluation framework)
